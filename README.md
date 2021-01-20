@@ -1,2 +1,2 @@
-# MyApp
-This is my app.
+#MyApp
+This is my app and __it's very simple__.
